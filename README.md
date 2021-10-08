@@ -1,8 +1,9 @@
 # Flutter Deezer Clone Challenge ui Animated 🔥🔥
 <hr>
-<!--  <img src="" alt="Css Logo" with="200" height="400"/>
- -->
- 
+<h4>Gif IMG : </h4>
+ <img src="https://user-images.githubusercontent.com/69757558/136546271-16ab7e51-ce1d-48c0-a15b-499a2f0d4a8f.gif" alt="Css Logo" with="200" height="400"/>
+
+
 
  
  

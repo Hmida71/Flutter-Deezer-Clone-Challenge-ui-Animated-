@@ -57,7 +57,7 @@
 <h3>pls Add panel.dart file in root file (SlidingUpPanel) </h3>
 <h4>Note : SlidingUpPanel is a pub package ! </h4>
 
-🔥 Deezer Music App With Flutter &amp; Animation Cool 🚀
+🔥 Deezer Music App With Flutter &amp; Animation Cool 🚀🚀
 
 
 
